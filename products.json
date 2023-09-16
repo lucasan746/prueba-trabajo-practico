@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "Producto 1",
+        "descripcion": "Descripcion del producto 1",
+        "imagen": "images/producto1.webp",
+        "detalle": "Descripcion",
+        "precio": 1234.00,
+        "puntuacion": "*****"
+    },
+    {
+        "codigo": "Producto 2",
+        "descripcion": "Descripcion del producto 1",
+        "imagen": "images/producto1.webp",
+        "detalle": "Descripcion",
+        "precio": 1234.00,
+        "puntuacion": "*****"
+    },
+    {
+        "codigo": "Producto 3",
+        "descripcion": "Descripcion del producto 1",
+        "imagen": "images/producto1.webp",
+        "detalle": "Descripcion",
+        "precio": 1234.00,
+        "puntuacion": "*****"
+    },
+    {
+        "codigo": "Producto 4",
+        "descripcion": "Descripcion del producto 1",
+        "imagen": "images/producto1.webp",
+        "detalle": "Descripcion",
+        "precio": 1234.00,
+        "puntuacion": "*****"
+    }
+]
